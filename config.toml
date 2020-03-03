@@ -2,3 +2,13 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme="tale"
+
+sectionPagesMenu = "main"
+
+[menu]
+    [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/about/"
+    weight = 0
