@@ -1,7 +1,7 @@
 baseURL = "https://lisianthuss.github.io"
 languageCode = "en-us"
 title = "잠들지 않는 시간"
-theme="inkblotty"
+theme="tale"
 
 sectionPagesMenu = "main"
 
