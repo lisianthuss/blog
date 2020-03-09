@@ -1,7 +1,7 @@
 ---
 title: "Factory Method Pattern"
 date: 2020-03-03T12:47:00+09:00
-draft: true
+draft: false
 ---
 > 객체를 생성하는 코드를 별도의 class/method로 분리함으로써 객체 생성 방식의 변화를 대비하는데 유용
 
